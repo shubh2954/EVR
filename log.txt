@@ -1,0 +1,135 @@
+UserID: 5900341019 | Time: 2024-08-17 14:51:30.689981 | Command: /attack | Target: 20.235.89.47 | Port: 25672 | Time: 300
+Username: @Shubh4071
+Target: 20.235.89.47
+Port: 25672
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 16:55:42.285841 | Command: /attack | Target: 20.204.181.236 | Port: 20373 | Time: 300
+Username: @Shubh4071
+Target: 20.204.181.236
+Port: 20373
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 17:10:43.655235 | Command: /attack | Target: 20.219.167.176 | Port: 20466 | Time: 300
+Username: @Shubh4071
+Target: 20.219.167.176
+Port: 20466
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 17:21:14.456139 | Command: /attack | Target: 20.198.79.17 | Port: 24662 | Time: 300
+UserID: 5900341019 | Time: 2024-08-18 17:21:45.217204 | Command: /attack | Target: 20.198.79.17 | Port: 24662 | Time: 300
+Username: @Shubh4071
+Target: 20.198.79.17
+Port: 24662
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 17:41:12.791053 | Command: /attack | Target: 4.213.64.122 | Port: 24037 | Time: 300
+Username: @Shubh4071
+Target: 4.213.64.122
+Port: 24037
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 17:46:59.096622 | Command: /attack | Target: 4.213.64.122 | Port: 24037 | Time: 300
+Username: @Shubh4071
+Target: 4.213.64.122
+Port: 24037
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 17:54:09.130910 | Command: /attack | Target: 4.213.64.122 | Port: 24037 | Time: 300
+Username: @Shubh4071
+Target: 4.213.64.122
+Port: 24037
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 18:04:30.205193 | Command: /attack | Target: 4.213.64.122 | Port: 24037 | Time: 300
+Username: @Shubh4071
+Target: 4.213.64.122
+Port: 24037
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-18 18:13:38.919876 | Command: /attack | Target: 4.213.64.122 | Port: 24037 | Time: 180
+Username: @Shubh4071
+Target: 4.213.64.122
+Port: 24037
+Time: 180
+
+UserID: 5900341019 | Time: 2024-08-18 18:21:33.805555 | Command: /attack | Target: 20.235.90.12 | Port: 14035 | Time: 180
+UserID: 5900341019 | Time: 2024-08-18 18:22:27.137541 | Command: /attack | Target: 20.235.90.12 | Port: 14035 | Time: 180
+Username: @Shubh4071
+Target: 20.235.90.12
+Port: 14035
+Time: 180
+
+UserID: 5900341019 | Time: 2024-08-18 18:30:04.016522 | Command: /attack | Target: 20.198.107.126 | Port: 10771 | Time: 120
+Username: @Shubh4071
+Target: 20.198.107.126
+Port: 10771
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-18 18:36:42.415388 | Command: /attack | Target: 20.198.107.126 | Port: 10771 | Time: 120
+Username: @Shubh4071
+Target: 20.198.107.126
+Port: 10771
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-18 18:38:56.210583 | Command: /attack | Target: 20.198.107.126 | Port: 10771 | Time: 120
+Username: @Shubh4071
+Target: 20.198.107.126
+Port: 10771
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-18 18:41:05.067553 | Command: /attack | Target: 20.198.107.126 | Port: 10771 | Time: 120
+Username: @Shubh4071
+Target: 20.198.107.126
+Port: 10771
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-18 18:51:30.549594 | Command: /attack | Target: 20.198.107.126 | Port: 10771 | Time: 120
+Username: @Shubh4071
+Target: 20.198.107.126
+Port: 10771
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-18 19:00:52.446009 | Command: /attack | Target: 20.198.107.126 | Port: 10771 | Time: 120
+Username: @Shubh4071
+Target: 20.198.107.126
+Port: 10771
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-19 06:49:03.348006 | Command: /attack | Target: 20.198.79.189 | Port: 27721 | Time: 180
+Username: @Shubh4071
+Target: 20.198.79.189
+Port: 27721
+Time: 180
+
+UserID: 5900341019 | Time: 2024-08-19 06:59:08.904163 | Command: /attack | Target: 20.198.79.110 | Port: 10784 | Time: 180
+Username: @Shubh4071
+Target: 20.198.79.110
+Port: 10784
+Time: 180
+
+UserID: 5900341019 | Time: 2024-08-19 07:16:30.284536 | Command: /attack | Target: 20.198.7.12 | Port: 20448 | Time: 180
+Username: @Shubh4071
+Target: 20.198.7.12
+Port: 20448
+Time: 180
+
+UserID: 5900341019 | Time: 2024-08-19 07:21:50.692948 | Command: /attack | Target: 20.204.18.38 | Port: 12406 | Time: 300
+Username: @Shubh4071
+Target: 20.204.18.38
+Port: 12406
+Time: 300
+
+UserID: 5900341019 | Time: 2024-08-20 10:40:23.468314 | Command: /attack | Target: 20.198.78.217 | Port: 13625 | Time: 120
+Username: @Shubh4071
+Target: 20.198.78.217
+Port: 13625
+Time: 120
+
+UserID: 5900341019 | Time: 2024-08-20 10:44:26.265246 | Command: /attack | Target: 20.198.78.217 | Port: 13625 | Time: 120
+UserID: 5900341019 | Time: 2024-08-20 10:59:22.342806 | Command: /attack | Target: 124.156.38.138 | Port: 10375 | Time: 120
+Username: @Shubh4071
+Target: 124.156.38.138
+Port: 10375
+Time: 120
+
