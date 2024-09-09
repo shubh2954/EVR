@@ -5,7 +5,7 @@ import schedule
 import threading
 
 # Define the URL of your Codespace environment
-codespace_url = "https://fantastic-couscous-pjg5v794rrq62rqpg.github.dev/"
+codespace_url = "https://studious-adventure-g47qwxqv7wrj29rr4.github.dev/"
 
 # Define the interval in seconds for sending requests (e.g., 10 minutes)
 request_interval = 600  # 10 minutes
